@@ -1,6 +1,6 @@
 # My ***cool*** website vijfluik
 
-## [Download Page](https://github.com/DeanLemans/vijfluik-website/releases/tag/PDF)
+## [Process PDF](https://github.com/DeanLemans/vijfluik-website/releases/tag/PDF)
 
 ## Contributor:
 - [cheese](https://github.com/DeanLemans)
